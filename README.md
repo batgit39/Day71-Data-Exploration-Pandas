@@ -1,6 +1,8 @@
 # Day71-Data-Exploration-Pandas
 Some challenges to learn data exploration with pandas
 
+[Salaries_by_college_major.pdf](https://github.com/batgit39/Day71-Data-Exploration-Pandas/files/11578146/Salaries_by_college_major.pdf)
+
 Challenge 1
 
 ![1-question-1](https://github.com/batgit39/Day71-Data-Exploration-Pandas/assets/86790253/37cb8e22-0c23-4419-95b9-a2a5f77e0ca9)
